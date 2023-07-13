@@ -2,7 +2,7 @@ from setuptools import setup
 
 
 setup(
-  name = 'invoicing-pdf',         #* Your package will have this name
+  name = 'invoicing-pdf-testing-and-learning',         #* Your package will have this name
   packages = ['invoicing'],   #* Name the package again
   version = '1.0.0',         #* To be increased every time your change your library
   license='MIT',             # Type of license. More here: https://help.github.com/articles/licensing-a-repository
