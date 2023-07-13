@@ -3,3 +3,5 @@ venv/
 invoices/
 images/
 pdfs/
+dist/
+invoicing_pdf_testing_and_learning.egg-info/
